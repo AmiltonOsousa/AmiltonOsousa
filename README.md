@@ -7,7 +7,7 @@
 <div align="center">
  
 ### Programming Languages
-[![Minhas Habilidades](https://skillicons.dev/icons?i=c#,c,java)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,c,java)](https://skillicons.dev)
 
 ### Web
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
