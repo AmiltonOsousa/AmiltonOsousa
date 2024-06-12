@@ -7,14 +7,13 @@
 <div align="center">
  
 ### Programming Languages
-[![Minhas Habilidades](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=c#,c,java)](https://skillicons.dev)
 
 ### Web
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 <br>
 </div>
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AmiltonOsousa&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
