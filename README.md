@@ -12,6 +12,10 @@
 ### Web
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
+### Tools
+[![Minhas Habilidades](https://skillicons.dev/icons?i=electron,discord,dotnet,figma)](https://skillicons.dev)
+
+
 <br>
 </div>
 
